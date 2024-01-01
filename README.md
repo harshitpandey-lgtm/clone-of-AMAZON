@@ -1,7 +1,9 @@
 # clone-of-AMAZON
-hey this clone of amazon using the HTML5 and CSS3
+Hey this clone of amazon using the HTML5 and CSS3.
+And, at bottom of the page CSS3 code are availabel.......
 
 HTML code 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
