@@ -1,4 +1,4 @@
-# clone-of-AMAZON
+#clone-of-AMAZON
 Hey this clone of amazon using the HTML5 and CSS3.
 And, at bottom of the page CSS3 code are availabel.......
 
